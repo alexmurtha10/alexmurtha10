@@ -1,17 +1,31 @@
-# 👩🏻‍💻 Alex Murtha
+<h1 align="center">Alex Murtha</h1>
 
-**`Desenvolvedor FullStack | Mobile | Backend`**
+<p align="center">
+  <strong>FullStack · Mobile · Backend</strong><br/>
+  Engenheiro de Software — Macaé, RJ
+</p>
 
-Sou Alex Murtha, natural do Rio de Janeiro, com Bacharelado em Engenharia de Software concluído em dezembro de 2024.
+---
 
-Minha trajetória é marcada pela união entre a **tecnologia** e a **otimização de processos**. Comecei minha carreira com uma base sólida em **Infraestrutura de TI** e **Suporte Técnico** (configuração de redes, Active Directory e gestão de ativos), o que me deu uma visão clara sobre o funcionamento interno dos sistemas.
+Bacharel em Engenharia de Software (dez/2024) com background em infraestrutura de TI e transição consolidada para desenvolvimento de software. Combino visão técnica de sistemas com análise de processos de negócio para construir aplicações eficientes e orientadas a resultado.
 
-Atualmente, estou em transição de carreira, aplicando meu conhecimento de **Análise de Processos e Negócios** no desenvolvimento de software. Minha experiência inclui:
+## Experiência & Especialidades
 
-- Criação de soluções de impacto com **Power Platform** (Power BI, Power Apps, Power Automate).
-- Interface direta com Operações e TI para **levantamento de requisitos** e validação de soluções.
+**Desenvolvimento de Software**
+Soluções FullStack, Mobile e Backend — da especificação à entrega.
 
-Estou sempre em busca de novos desafios e transformar problemas de negócio em aplicações eficientes.
+**Power Platform**
+Power BI, Power Apps e Power Automate aplicados a automação e análise de dados.
+
+**Infraestrutura de TI**
+Redes, Active Directory, gestão de ativos e suporte técnico — base que informa toda minha visão de sistemas.
+
+**Análise de Negócios**
+Levantamento de requisitos com operações e TI, validação de soluções e alinhamento entre problemas de negócio e entrega técnica.
+
+---
+
+> Transformar problemas reais em aplicações eficientes é o que me move.
 
 ---
 
