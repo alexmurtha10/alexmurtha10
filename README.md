@@ -1,58 +1,156 @@
 <h1 align="center">Alex Murtha</h1>
 
 <p align="center">
-  <strong>FullStack · Mobile · Backend</strong><br/>
-  Engenheiro de Software — Macaé, RJ
+  <strong>Software Engineer</strong><br/>
+  🇺🇸 Building software that transforms business processes into scalable solutions.<br/>
+  🇧🇷 Desenvolvendo software que transforma processos de negócio em soluções escaláveis.
 </p>
 
 ---
 
-Bacharel em Engenharia de Software (dez/2024) com background em infraestrutura de TI e transição consolidada para desenvolvimento de software. Combino visão técnica de sistemas com análise de processos de negócio para construir aplicações eficientes e orientadas a resultado.
+# 👋 Sobre | About
 
-## Experiência & Especialidades
+### 🇧🇷 Português
 
-**Desenvolvimento de Software**
-Soluções FullStack, Mobile e Backend — da especificação à entrega.
+Bacharel em Engenharia de Software (2024), com experiência no desenvolvimento de aplicações Full Stack, Mobile e Backend, automação de processos e soluções orientadas ao negócio.
 
-**Power Platform**
-Power BI, Power Apps e Power Automate aplicados a automação e análise de dados.
+Minha trajetória combina experiência em Infraestrutura de TI, desenvolvimento de sistemas corporativos, APIs REST, Power Platform e análise de processos, sempre buscando transformar desafios operacionais em soluções tecnológicas eficientes, escaláveis e de alto valor para o negócio.
 
-**Infraestrutura de TI**
-Redes, Active Directory, gestão de ativos e suporte técnico — base que informa toda minha visão de sistemas.
+Tenho interesse especial por Arquitetura de Software, Desenvolvimento Backend, Sistemas Distribuídos, Automação de Processos e aplicações que unem tecnologia e estratégia de negócio.
 
-**Análise de Negócios**
-Levantamento de requisitos com operações e TI, validação de soluções e alinhamento entre problemas de negócio e entrega técnica.
+<details>
+<summary><strong>🇺🇸 Read in English</strong></summary>
 
----
+Bachelor's Degree in Software Engineering (2024) with experience in Full Stack, Mobile and Backend development, business process automation and software solutions.
 
-> Transformar problemas reais em aplicações eficientes é o que me move.
+My professional journey combines an IT Infrastructure background with experience building internal systems, REST APIs, Power Platform solutions and business process analysis, always focused on transforming operational challenges into scalable and maintainable software.
 
----
+I'm particularly interested in Software Architecture, Backend Development, Distributed Systems, Process Automation and technology that creates business value.
 
-### 🌐 Conecte-se comigo
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0058A8)](https://www.linkedin.com/in/alexmurtha10/)
-[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/alexmurtha10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/alexmurtha10?tab=followers)
+</details>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🚀 O que eu faço | What I Do
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+| 🇧🇷 | 🇺🇸 |
+|------|------|
+| Desenvolvimento Full Stack | Full Stack Development |
+| Desenvolvimento Mobile | Mobile Development |
+| Desenvolvimento Backend | Backend Development |
+| APIs REST | REST APIs |
+| Modelagem de Banco de Dados | Database Modeling |
+| Arquitetura de Software | Software Architecture |
+| Automação de Processos | Process Automation |
+| Power Platform | Power Platform |
+| Levantamento de Requisitos | Requirements Gathering |
+| Análise de Processos | Business Process Analysis |
 
-<img alt="Dart" title="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
-<img alt="Flutter" title="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img alt="Nest.js" title="Nest.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-<img alt="Prisma" title="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
-<img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img alt="Django" title="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-<img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+---
 
-</div>
+# 🛠 Tecnologias | Tech Stack
 
+## 📱 Mobile
 
+<p>
+<img alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img alt="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img alt="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
+<img alt="TypeScript" width="40pxpx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img alt="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+</p>
+
+## 🗄 Banco de Dados | Database
+
+<p>
+<img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
+
+## 🌐 Front-end
+
+<p>
+<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+</p>
+
+## 🔧 Ferramentas | Tools
+
+<p>
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+**Power Platform • Power BI • Power Apps • Power Automate • Oracle Fusion Cloud • SharePoint • SQL**
+
+---
+
+# ⭐ Projetos em Destaque | Featured Projects
+
+## 🚚 Fleet Management Platform *(Em desenvolvimento | In Development)*
+
+Sistema Full Stack para gerenciamento de frotas, caminhões, carretas e solicitações de viagens.
+
+**Stack**
+
+Flutter • NestJS • PostgreSQL
+
+---
+
+## 📦 OcyanLog
+
+Aplicação corporativa desenvolvida em Power Apps para gestão de embalagens, transportes e controle de custos logísticos.
+
+Corporate application developed using Power Apps to manage packaging, transportation and logistics costs.
+
+---
+
+## 💻 IT Asset Management
+
+Aplicação desenvolvida para gestão do ciclo de vida de ativos de TI, controle de movimentações e emissão de termos de responsabilidade.
+
+Application developed to manage the IT asset lifecycle, equipment tracking and responsibility terms.
+
+---
+
+# 🎯 Interesses | Interests
+
+- Software Architecture
+- Backend Development
+- Clean Architecture
+- Mobile Development
+- Distributed Systems
+- Cloud Computing
+- Process Automation
+- Business Solutions
+- Supply Chain Technology
+
+---
+
+# 🌐 Conecte-se | Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/alexmurtha10">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alexmurtha@outlook.com">
+<img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Technology creates value when it solves real business problems."</i><br/>
+<i>"A tecnologia gera valor quando resolve problemas reais de negócio."</i>
+</p>
